@@ -20,3 +20,27 @@ hr{
     border-radius: 10px;  
     width: 1830px;
 }
+#neuarckep{
+        display: block;
+        height: 600px;
+        box-shadow: 5px 5px 3px rgb(72, 71, 71);
+        margin-left: auto;
+        margin-right: auto;
+}
+#fiatalkoracim{
+    text-align: center;
+    letter-spacing: 2px;
+    
+}
+.fiatalkoraszoveg{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    text-indent: 1cm;
+    line-height: 0.8cm;
+    font-size: 110%;
+}
+#amerikacim{
+    margin-left: auto;
+    margin-right: auto;
+}
