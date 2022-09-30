@@ -2,14 +2,14 @@ body {
     letter-spacing: 1px;
 }
 nav{
-    background-image: url(Képek/bg1.jpg);
+    background-image: url(../Képek/bg1.jpg);
 }
 h1{
     text-align: center;
     font-variant: small-caps;
 }
 body{
-    background-image:url(Képek/bg1.jpg) ;
+    background-image:url(../Képek/bg1.jpg) ;
     color: white;
 }
 hr{

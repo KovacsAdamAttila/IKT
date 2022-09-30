@@ -4,6 +4,8 @@ nav{
 .focim{
     text-align: center;
     font-variant:small-caps;
+    margin-top: 60px;
+    margin-bottom: 20px;
 }
 body{
     background-image:url(../IKT/Képek/bg1.jpg) ;
@@ -42,4 +44,5 @@ hr{
 #ac{
    margin-left: auto;
    text-align: center;
+   margin-top: 150px;
 }
