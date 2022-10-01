@@ -45,4 +45,10 @@ hr{
    margin-left: auto;
    text-align: center;
    margin-top: 150px;
+   margin-bottom: 50px;
+}
+.amszoveg{
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: justify;
 }
