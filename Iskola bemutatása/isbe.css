@@ -1,3 +1,42 @@
 nav{
     background-image: url(../Képek/bg1.jpg);
 }
+body{
+    background-image:url(../Képek/bg1.jpg) ;
+    background-repeat: repeat-y;
+    color: white;
+}
+.focim{
+    text-align: center;
+    font-variant:small-caps;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;  
+}
+#rvdbemcim{
+        text-align: center;
+        letter-spacing: 2px;
+}
+.szoveg{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    text-indent: 1cm;
+    line-height: 0.8cm;
+    font-size: 109%;
+}
+#neusulihatul{
+    display: block;
+    height: 500px;
+    box-shadow: 5px 5px 3px rgb(72, 71, 71);
+    margin-top: 140px;
+}
