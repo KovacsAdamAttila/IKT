@@ -40,3 +40,12 @@ hr{
     box-shadow: 5px 5px 3px rgb(72, 71, 71);
     margin-top: 140px;
 }
+a{
+    color: rgb(180, 180, 255);
+}
+a:hover{
+    color:black;
+}
+a:active{
+    color: white;
+}
